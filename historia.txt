@@ -6,5 +6,8 @@ Esta es la tercera línea que vamos a modificar para que podamos hacerle el sigu
 
 Ahora volvemos a hacer otro cambio en la línea 
 
-Ahora volvemos a agregar texto en la línea 9
+Ahora volvemos a agregar texto en la línea 9.
+En este commit agragamos el punto en la línea anterior.
+
+
 
