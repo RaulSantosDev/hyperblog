@@ -7,3 +7,10 @@ body {
 body{
     color: blue;
 }
+
+#cabecera {
+    color: black;
+    background-color: rgb(88, 88, 203);
+    font-weight: bold;
+
+}
