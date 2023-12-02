@@ -1,2 +1,7 @@
-Archivo creado
+Archivo creado.
 
+Este es la segunda modificación. 
+
+Esta es la tercera línea que vamos a modificar para que podamos hacerle el siguiente commit.
+
+Ahora volvemos a hacer otro cambio en la línea
