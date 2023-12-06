@@ -14,3 +14,9 @@ body{
     font-weight: bold;
 
 }
+
+#footer{
+ background-color: #777;
+ color: white;
+ text-align: center;   
+}
