@@ -13,5 +13,12 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * Creado por el increíble Platzi Team
 * Incluye ejemplos en Windows, Linux y Mac
 * Disponible para todas las edades
+<<<<<<< HEAD
+=======
+* Creado por el increíble Platzi Team
+* Incluye ejemplos en Windows, Linux y Mac
+* Disponible para todas las edades
+* Esta linea le haremos un cherry a main
+>>>>>>> 675040e (Esta es la línea para hacerle el cherry)
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
